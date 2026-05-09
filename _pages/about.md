@@ -26,6 +26,18 @@ Time Series Foundation Models, AutoML, Multi-Agents
 
 ---
 
+<h1 id="selected-projects">Selected Projects</h1>
+
+<ul class="selected-projects-list">
+  <li>Agent-based planning and optimization for complex time series tasks, Huawei University-Enterprise Collaboration Project, 2026-2027.</li>
+  <li>Multimodal industrial time series interpretation and semantic description, Huawei University-Enterprise Collaboration Project, 2025-2027.</li>
+  <li>Intelligent risk inspection for cloud platforms, Alibaba University-Enterprise Collaboration Project, 2025-2026.</li>
+  <li>Multi-dimensional covariate fusion representation and fine-tuning enhancement, Huawei University-Enterprise Collaboration Project, 2025-2026.</li>
+  <li>Explainable automatic anomaly prediction for time series, National Natural Science Foundation of China, 2024-2027.</li>
+</ul>
+
+---
+
 <h1 id="selected-publications">Selected Publications</h1>
 
 Full list: [DBLP](https://dblp.org/pers/hd/g/Guo:Chenjuan), [Google Scholar](https://scholar.google.dk/citations?user=WMXNm88AAAAJ&hl=en).
