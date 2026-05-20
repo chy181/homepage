@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-{% include home/profile.md %}
+{% include_relative profile.md %}
 
-{% include home/publications.html %}
+{% include_relative publications.html %}
 
 ---
 
-{% include home/projects.html %}
+{% include_relative projects.html %}
